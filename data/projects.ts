@@ -16,11 +16,4 @@ export const projects: Project[] = [
       orm: 'Prisma',
     },
   },
-  {
-    image: '',
-    projectName: 'SRF Dating App',
-    projectDescription:
-      'Users can create accounts and be matched to others with same taste in music and festivals they attend. They can plan meetings and other festivities together. Matchmaking is based on taste of music and bands.',
-    techStack: { framework: 'Next.js', styling: 'Tailwind CSS' },
-  },
 ];

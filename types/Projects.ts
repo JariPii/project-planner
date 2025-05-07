@@ -84,7 +84,12 @@ export type Auth =
   | 'Clerk'
   | 'Supabase Auth'
   | 'Passport.js'
-  | 'NextAuth.js';
+  | 'NextAuth.js'
+  | 'Magic.link'
+  | 'Okta'
+  | 'AWS Cognito'
+  | 'Stytch'
+  | 'FusionAuth';
 
 export type Testing =
   | 'Jest'
