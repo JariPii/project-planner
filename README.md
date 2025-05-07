@@ -1,1 +1,1 @@
-# projects-planner
+# 📋 Project Planner
