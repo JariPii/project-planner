@@ -1,4 +1,12 @@
-# 📋 Project Planner (L-W-S)
+**LOGO** ♾️ Work in Progress...
+![alt text](public/images/LWS-logo.png) ![alt text](public/images/LWS-logo2.png)
+![alt text](public/images/LWS-logo3.png) ![alt text](public/images/LWS-logo4.png)
+
+# 📋 LWS - Project Planner
+
+#### Slogan
+
+~ Built Around Your Vision ~
 
 ## 🎨 Graphic Profile
 
@@ -8,17 +16,19 @@
 
 ### Colors
 
-| Color Name     |                                                                                                                                    | HEX     | oklch                     | Tailwind Config      |
+![Color Chart](public/images/LWS-colors.png)
+
+<!-- | Color Name     |                                                                                                                                    | HEX     | oklch                     | Tailwind Config      |
 | :------------- | :--------------------------------------------------------------------------------------------------------------------------------- | :------ | :------------------------ | :------------------- |
 | **Primary**    | <span style="display:block;margin:auto;width:24px;height:24px;border-radius:50%;background:#000000;"></span>                       | #000000 | oklch(0 0 0)              | `--color-primary`    |
 | **Secondary**  | <span style="display:block;margin:auto;width:24px;height:24px;border-radius:50%;background:#FFFFFF;border:1px solid #ccc;"></span> | #FFFFFF | oklch(1 0 0)              | `--color-secondary`  |
 | **Tertiary**   | <span style="display:block;margin:auto;width:24px;height:24px;border-radius:50%;background:#8D8B8F;border:1px solid #ccc;"></span> | #8D8B8F | oklch(0.64 0.0064 308.34) | `--color-tertiary`   |
 | **Quaternary** | <span style="display:block;margin:auto;width:24px;height:24px;border-radius:50%;background:#9725FF;"></span>                       | #9725FF | oklch(0.57 0.2819 300.36) | `--color-quaternary` |
-| **Quinary**    | <span style="display:block;margin:auto;width:24px;height:24px;border-radius:50%;background:#17A6A1;"></span>                       | #17A6A1 | oklch(0.66 0.1094 190.93) | `--color-quinary`    |
+| **Quinary**    | <span style="display:block;margin:auto;width:24px;height:24px;border-radius:50%;background:#17A6A1;"></span>                       | #17A6A1 | oklch(0.66 0.1094 190.93) | `--color-quinary`    | -->
 
 <br>
 
-should we set... ?
+should we set...
 
 - background (dark/light)
 - foreground
@@ -26,3 +36,5 @@ should we set... ?
 - accent-, foreground
 - card-, foreground
 - popover-, foreground
+
+...?
