@@ -112,6 +112,14 @@
   --sidebar-ring: oklch(0.552 0.016 285.938);
 }
 
+@theme {
+  --color-primary: oklch(0 0 0);
+  --color-secondary: oklch(1 0 0);
+  --color-tertiary: oklch(0.64 0.0064 308.34);
+  --color-quaternary: oklch(0.57 0.2819 300.36);
+  --color-quinary: oklch(0.66 0.1094 190.93);
+}
+
 @layer base {
   * {
     @apply border-border outline-ring/50;

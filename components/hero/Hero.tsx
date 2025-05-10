@@ -26,7 +26,7 @@ const Hero = ({ height = 'h-[70svh]', className }: HeroProps) => {
         className='object-cover'
       />
       <div className='bg-white/30 absolute bottom-4 xl:bottom-6 blur-xs px-6 pb-6 h-24 w-full'></div>
-      <h1 className='text-3xl sm:text-4xl xl:text-7xl text-purple-700 absolute bottom-11'>
+      <h1 className='text-3xl sm:text-4xl xl:text-7xl text-quaternary absolute bottom-11'>
         This page is under construction!
       </h1>
     </div>
