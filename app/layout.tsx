@@ -17,7 +17,7 @@ const robotoMono = Roboto_Mono({
 
 export const metadata: Metadata = {
   title: 'Leminaho Projects',
-  description: 'Jari and Linda Leminaho´s project collection...',
+  description: 'Jari & Linda Leminaho´s project collection...',
 };
 
 export default function RootLayout({

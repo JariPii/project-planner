@@ -1,8 +1,7 @@
 **LOGO** ♾️ Work in Progress...
-![alt text](public/images/LWS-logo.png) ![alt text](public/images/LWS-logo2.png)
-![alt text](public/images/LWS-logo3.png) ![alt text](public/images/LWS-logo4.png)
+![temp logo](public/images/LWS-logo.png)
 
-# 📋 LWS - Project Planner
+# 📋 Project Planner
 
 #### Slogan
 
