@@ -1,5 +1,6 @@
 **LOGO** ♾️ Work in Progress...
-![temp logo](public/images/LWS-logo.png)
+
+![temp logo](public/images/logo-black.png)
 
 # 📋 Project Planner
 
