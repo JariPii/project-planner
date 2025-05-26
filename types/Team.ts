@@ -4,6 +4,7 @@ export type TeamMember = {
   image: string;
   firstName: string;
   lastName: string;
+  role: string;
   educations?: Educations;
   specialSkills: TechStack;
 };

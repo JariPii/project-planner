@@ -11,7 +11,7 @@ const Sidebar = ({ children, side = 'left', className }: SidebarProps) => {
   return (
     <aside
       className={clsx(
-        'border bg-blue-500 p-4 max-h-[50svh]',
+        'border bg-black p-4 max-h-[50svh]',
         {
           'left-0': side === 'left',
           'right-0 flex justify-end': side === 'right',
